@@ -2,6 +2,8 @@
 
 A gadget that flashes an LED when you get paged.
 
+https://github.com/user-attachments/assets/24ae86d6-7ffc-44cd-81ca-821c60f2d317
+
 ![Paginator circuit diagram](./docs/diagram.png)
 
 ## Getting started
@@ -30,6 +32,6 @@ Open Arduino IDE.
 Go to Library Manager and install:
 - Adafruit SSD1306
 
-Set board to "EP32-WROOM-DA".
+Set board to "ESP32-WROOM-DA".
 
 Open `paginator.ino` and upload to ESP32.
